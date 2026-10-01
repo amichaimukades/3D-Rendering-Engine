@@ -1,4 +1,4 @@
-# Ray-Tracer
+# 3D Rendering Engine (Ray Tracer).
 
 A 3D rendering engine written from scratch in Java that turns a scene of geometric primitives and light sources into a photorealistic PNG image, built as an incremental, test-driven software-engineering project.
 
@@ -71,8 +71,8 @@ primitives Point · Vector · Ray · Double3 · Color · Material · Util
 ### Installation
 
 ```bash
-git clone https://github.com/amichai1/Ray-Tracer.git
-cd Ray-Tracer
+git clone https://github.com/amichaimukades/3D-Rendering-Engine.git
+cd 3D-Rendering-Engine
 ```
 
 Open the folder in IntelliJ IDEA. The module is defined by `.idea/` with `src/` as the source root and `unittests/` as the test source root — no further setup is required.
